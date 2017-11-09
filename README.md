@@ -1,5 +1,7 @@
 # Classifying Images with Vision and Core ML
 
+* [WWDC 2017 - Core ML in Depth](https://developer.apple.com/videos/play/wwdc2017/710/)
+
 Demonstrates using Vision with Core ML to preprocess images and perform image classification.
 
 ## Overview
